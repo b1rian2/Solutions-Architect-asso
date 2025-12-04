@@ -1,0 +1,15 @@
+# Ruby
+vendor/bundle/
+.bundle/
+*.gem
+.ruby-version
+
+# Java
+target/
+*.class
+*.jar
+*.war
+
+# Temp files
+tmp/
+*.log
